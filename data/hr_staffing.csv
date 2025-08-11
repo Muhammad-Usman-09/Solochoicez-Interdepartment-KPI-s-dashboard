@@ -1,0 +1,1001 @@
+employee_id,name,department,position,salary,experience_years,performance_score,status,join_date
+1,Employee 1,Data & AI Services,Senior,872452,2,6.160129355,Active,1/31/2020
+2,Employee 2,Data & AI Services,Senior,781185,14,8.039144453,On Leave,3/1/2020
+3,Employee 3,HR & Staffing,Senior,764974,2,9.173636642,On Leave,3/31/2020
+4,Employee 4,HR & Staffing,Manager,1286928,3,6.356484085,Active,4/30/2020
+5,Employee 5,IT Solutions,Lead,1003793,10,9.691488293,Active,5/30/2020
+6,Employee 6,Business Consulting,Lead,1011083,4,6.334588227,On Leave,6/29/2020
+7,Employee 7,Data & AI Services,Junior,414824,4,6.575896333,Notice Period,7/29/2020
+8,Employee 8,Data & AI Services,Senior,1475533,5,8.445222506,Notice Period,8/28/2020
+9,Employee 9,Business Consulting,Senior,585916,11,8.088003694,Notice Period,9/27/2020
+10,Employee 10,IT Solutions,Lead,424751,10,9.031944809,Active,10/27/2020
+11,Employee 11,Business Consulting,Manager,814677,13,7.793600184,On Leave,11/26/2020
+12,Employee 12,IT Solutions,Director,1028214,14,8.631962873,Notice Period,12/26/2020
+13,Employee 13,Data & AI Services,Junior,1083048,8,7.55678916,Notice Period,1/25/2021
+14,Employee 14,Data & AI Services,Junior,425632,11,7.296092252,Notice Period,2/24/2021
+15,Employee 15,IT Solutions,Senior,1035959,4,7.126022276,Active,3/26/2021
+16,Employee 16,Data & AI Services,Manager,1038246,4,9.35485308,Notice Period,4/25/2021
+17,Employee 17,Business Consulting,Senior,1275787,1,8.435629059,Notice Period,5/25/2021
+18,Employee 18,IT Solutions,Junior,926555,2,9.895625279,Notice Period,6/24/2021
+19,Employee 19,Business Consulting,Senior,1010773,7,8.60883668,On Leave,7/24/2021
+20,Employee 20,HR & Staffing,Manager,1423920,2,8.639186237,Notice Period,8/23/2021
+21,Employee 21,IT Solutions,Director,795303,11,9.664246665,Notice Period,9/22/2021
+22,Employee 22,Data & AI Services,Director,635369,1,7.325655687,Active,10/22/2021
+23,Employee 23,IT Solutions,Senior,1192820,7,9.252644906,Active,11/21/2021
+24,Employee 24,Business Consulting,Manager,1156049,12,7.069000498,On Leave,12/21/2021
+25,Employee 25,IT Solutions,Director,835468,14,8.754257139,Active,1/20/2022
+26,Employee 26,Data & AI Services,Manager,1473679,3,8.329111998,On Leave,2/19/2022
+27,Employee 27,HR & Staffing,Junior,874493,15,6.315584269,Notice Period,3/21/2022
+28,Employee 28,Data & AI Services,Junior,483103,1,8.038499448,On Leave,4/20/2022
+29,Employee 29,HR & Staffing,Director,715591,13,7.221529033,Active,5/20/2022
+30,Employee 30,HR & Staffing,Lead,943783,7,8.27359598,On Leave,6/19/2022
+31,Employee 31,HR & Staffing,Lead,487450,2,7.236593912,Notice Period,7/19/2022
+32,Employee 32,Business Consulting,Director,312835,4,8.443560273,Notice Period,8/18/2022
+33,Employee 33,Business Consulting,Senior,818533,5,6.231043275,Notice Period,9/17/2022
+34,Employee 34,Data & AI Services,Lead,792206,6,8.448822112,On Leave,10/17/2022
+35,Employee 35,IT Solutions,Director,365620,11,9.89658837,On Leave,11/16/2022
+36,Employee 36,Business Consulting,Manager,748399,2,6.551163925,On Leave,12/16/2022
+37,Employee 37,HR & Staffing,Junior,664711,4,9.607026944,On Leave,1/15/2023
+38,Employee 38,IT Solutions,Director,404992,3,8.789802843,Notice Period,2/14/2023
+39,Employee 39,HR & Staffing,Junior,794546,9,8.955418485,Notice Period,3/16/2023
+40,Employee 40,Data & AI Services,Senior,1303054,9,9.943137844,Active,4/15/2023
+41,Employee 41,Business Consulting,Director,1465838,11,9.972727601,Notice Period,5/15/2023
+42,Employee 42,Business Consulting,Lead,509533,12,7.994748335,On Leave,6/14/2023
+43,Employee 43,Business Consulting,Director,1181880,12,8.918848908,Active,7/14/2023
+44,Employee 44,Business Consulting,Junior,1247311,12,9.280376377,Notice Period,8/13/2023
+45,Employee 45,HR & Staffing,Lead,966930,11,7.722977342,On Leave,9/12/2023
+46,Employee 46,HR & Staffing,Director,1333224,5,8.237175403,Notice Period,10/12/2023
+47,Employee 47,HR & Staffing,Director,681172,11,7.721501309,Notice Period,11/11/2023
+48,Employee 48,Data & AI Services,Senior,1092762,1,8.337169616,Active,12/11/2023
+49,Employee 49,Data & AI Services,Director,1074717,4,7.112790315,Active,1/10/2024
+50,Employee 50,HR & Staffing,Junior,1049109,15,9.454487618,On Leave,2/9/2024
+51,Employee 51,Business Consulting,Senior,420158,13,9.053734464,Active,3/10/2024
+52,Employee 52,IT Solutions,Lead,594802,15,6.492382879,Active,4/9/2024
+53,Employee 53,Data & AI Services,Senior,1361951,15,7.652615521,Active,5/9/2024
+54,Employee 54,HR & Staffing,Senior,614892,9,7.171235018,On Leave,6/8/2024
+55,Employee 55,HR & Staffing,Lead,594137,6,8.540998075,Active,7/8/2024
+56,Employee 56,HR & Staffing,Director,1325284,15,7.861305187,Active,8/7/2024
+57,Employee 57,Data & AI Services,Lead,924201,5,8.127594342,Notice Period,9/6/2024
+58,Employee 58,IT Solutions,Junior,1136667,2,6.112427942,Active,10/6/2024
+59,Employee 59,Data & AI Services,Senior,861806,4,9.437852341,Active,11/5/2024
+60,Employee 60,Business Consulting,Manager,301864,4,6.476734932,Active,12/5/2024
+61,Employee 61,IT Solutions,Junior,1080598,6,9.947099543,Notice Period,1/4/2025
+62,Employee 62,IT Solutions,Director,594537,1,7.219872425,On Leave,2/3/2025
+63,Employee 63,IT Solutions,Manager,599322,8,6.852273342,Active,3/5/2025
+64,Employee 64,IT Solutions,Director,933889,9,9.424030593,Active,4/4/2025
+65,Employee 65,IT Solutions,Lead,928864,9,9.178942674,On Leave,5/4/2025
+66,Employee 66,HR & Staffing,Senior,688137,5,7.090702584,Active,6/3/2025
+67,Employee 67,IT Solutions,Director,628229,4,6.485355233,Notice Period,7/3/2025
+68,Employee 68,HR & Staffing,Junior,491813,9,9.840395127,Notice Period,8/2/2025
+69,Employee 69,HR & Staffing,Director,502036,8,9.04945949,On Leave,9/1/2025
+70,Employee 70,Business Consulting,Director,1326433,6,9.12468268,Notice Period,10/1/2025
+71,Employee 71,Data & AI Services,Junior,1240245,15,9.206504496,On Leave,10/31/2025
+72,Employee 72,Business Consulting,Junior,1408913,7,6.697589791,On Leave,11/30/2025
+73,Employee 73,HR & Staffing,Director,881416,9,7.88455251,Active,12/30/2025
+74,Employee 74,Data & AI Services,Junior,566655,2,6.03788415,On Leave,1/29/2026
+75,Employee 75,Business Consulting,Senior,620714,14,7.602481996,Notice Period,2/28/2026
+76,Employee 76,IT Solutions,Senior,760333,2,8.183705113,Active,3/30/2026
+77,Employee 77,Business Consulting,Director,479514,11,9.461547625,Active,4/29/2026
+78,Employee 78,Business Consulting,Junior,563598,1,6.871823982,On Leave,5/29/2026
+79,Employee 79,IT Solutions,Senior,1318929,13,9.521998413,Active,6/28/2026
+80,Employee 80,HR & Staffing,Lead,894029,7,7.84923125,Active,7/28/2026
+81,Employee 81,Business Consulting,Senior,675984,4,7.142094988,On Leave,8/27/2026
+82,Employee 82,HR & Staffing,Director,1106558,5,7.658775451,Notice Period,9/26/2026
+83,Employee 83,Data & AI Services,Director,1055476,11,8.537754833,Active,10/26/2026
+84,Employee 84,Data & AI Services,Manager,1060154,13,9.207070675,Active,11/25/2026
+85,Employee 85,HR & Staffing,Director,1229911,6,8.945629158,Active,12/25/2026
+86,Employee 86,IT Solutions,Junior,1451630,5,8.83209361,Active,1/24/2027
+87,Employee 87,Data & AI Services,Manager,305376,14,8.189335655,Notice Period,2/23/2027
+88,Employee 88,IT Solutions,Junior,1446759,11,9.690720077,On Leave,3/25/2027
+89,Employee 89,IT Solutions,Director,833831,4,7.17721173,Notice Period,4/24/2027
+90,Employee 90,Business Consulting,Director,328892,9,7.212158567,Notice Period,5/24/2027
+91,Employee 91,HR & Staffing,Senior,446815,14,8.946412972,Active,6/23/2027
+92,Employee 92,HR & Staffing,Senior,786652,2,9.647899506,Active,7/23/2027
+93,Employee 93,HR & Staffing,Director,1481285,5,6.449943161,Notice Period,8/22/2027
+94,Employee 94,Data & AI Services,Director,899169,10,7.75756994,Notice Period,9/21/2027
+95,Employee 95,IT Solutions,Manager,1169596,15,7.637256411,Notice Period,10/21/2027
+96,Employee 96,Data & AI Services,Lead,1220417,1,8.837203717,Active,11/20/2027
+97,Employee 97,HR & Staffing,Junior,1000847,15,8.82386858,Active,12/20/2027
+98,Employee 98,Data & AI Services,Senior,372334,1,9.882299886,Active,1/19/2028
+99,Employee 99,HR & Staffing,Director,760218,12,6.002488612,Active,2/18/2028
+100,Employee 100,Data & AI Services,Director,1409857,9,6.337027776,Notice Period,3/19/2028
+101,Employee 101,HR & Staffing,Lead,1447281,1,7.947799933,Notice Period,5/17/2021
+102,Employee 102,HR & Staffing,Lead,868174,9,9.892043449,On Leave,6/1/2026
+103,Employee 103,Business Consulting,Manager,978814,9,6.511022852,Notice Period,7/21/2028
+104,Employee 104,HR & Staffing,Lead,1206652,7,7.43214118,On Leave,11/5/2028
+105,Employee 105,Business Consulting,Director,465867,13,7.402322421,Active,6/5/2020
+106,Employee 106,HR & Staffing,Junior,371885,9,8.823611573,Notice Period,11/29/2025
+107,Employee 107,IT Solutions,Junior,620757,12,7.178510031,Notice Period,8/3/2028
+108,Employee 108,Business Consulting,Manager,678300,2,6.530743322,Active,6/27/2026
+109,Employee 109,HR & Staffing,Junior,312764,8,8.248251998,Notice Period,4/5/2020
+110,Employee 110,IT Solutions,Director,1406335,14,7.995667383,On Leave,8/1/2024
+111,Employee 111,Business Consulting,Senior,613564,2,9.367175646,Active,1/24/2026
+112,Employee 112,HR & Staffing,Lead,693485,10,9.808478009,Notice Period,9/23/2025
+113,Employee 113,Business Consulting,Director,1268149,9,9.004915701,Notice Period,3/6/2020
+114,Employee 114,Business Consulting,Director,718648,15,6.495496732,On Leave,5/2/2023
+115,Employee 115,HR & Staffing,Lead,434956,1,6.009905684,On Leave,1/19/2021
+116,Employee 116,HR & Staffing,Director,344697,4,6.718104132,On Leave,11/27/2025
+117,Employee 117,IT Solutions,Junior,1175329,7,8.303715235,Active,9/9/2022
+118,Employee 118,HR & Staffing,Director,724031,11,7.851181308,On Leave,10/25/2023
+119,Employee 119,IT Solutions,Manager,608576,7,9.551600313,Active,8/9/2027
+120,Employee 120,IT Solutions,Director,743132,10,8.673552764,Notice Period,4/30/2026
+121,Employee 121,HR & Staffing,Director,1033520,3,9.462654725,Active,10/3/2022
+122,Employee 122,HR & Staffing,Junior,494900,15,7.44422683,Active,12/7/2025
+123,Employee 123,Business Consulting,Manager,845594,8,8.130134755,On Leave,5/22/2028
+124,Employee 124,IT Solutions,Senior,1343011,11,9.996520998,Active,5/25/2021
+125,Employee 125,Data & AI Services,Lead,495189,6,7.963411961,Notice Period,2/14/2028
+126,Employee 126,Business Consulting,Manager,347375,14,9.391743237,Active,10/31/2023
+127,Employee 127,HR & Staffing,Senior,1082423,9,8.651139749,On Leave,9/3/2025
+128,Employee 128,Business Consulting,Director,657552,9,8.056363275,Notice Period,6/29/2023
+129,Employee 129,HR & Staffing,Manager,638723,2,7.839935324,Notice Period,7/15/2021
+130,Employee 130,Data & AI Services,Lead,455440,1,7.607550296,Active,3/16/2024
+131,Employee 131,IT Solutions,Director,435782,1,8.944077991,Notice Period,12/26/2021
+132,Employee 132,Data & AI Services,Junior,1468149,3,9.117832564,On Leave,2/9/2028
+133,Employee 133,HR & Staffing,Lead,600151,7,6.420083469,Active,12/28/2022
+134,Employee 134,IT Solutions,Junior,1459982,13,6.877249155,On Leave,8/2/2028
+135,Employee 135,Business Consulting,Director,1368043,8,6.362224381,Notice Period,5/15/2023
+136,Employee 136,HR & Staffing,Lead,922488,11,9.731983785,Active,7/1/2027
+137,Employee 137,Business Consulting,Senior,1268837,3,6.497210331,On Leave,4/29/2025
+138,Employee 138,IT Solutions,Director,752534,11,9.312937636,Active,3/13/2022
+139,Employee 139,IT Solutions,Senior,1463486,5,6.551251835,Notice Period,1/16/2028
+140,Employee 140,IT Solutions,Senior,656684,6,6.833795948,Notice Period,4/14/2020
+141,Employee 141,HR & Staffing,Manager,662233,3,7.349243032,Active,1/7/2027
+142,Employee 142,Business Consulting,Lead,971575,14,6.083916606,Active,6/28/2022
+143,Employee 143,HR & Staffing,Manager,997830,8,8.446272905,Notice Period,8/24/2026
+144,Employee 144,IT Solutions,Senior,1307369,12,9.834254289,On Leave,11/30/2028
+145,Employee 145,IT Solutions,Lead,541609,4,6.005737867,Notice Period,5/31/2028
+146,Employee 146,Data & AI Services,Senior,1224091,3,7.01447785,Notice Period,10/4/2028
+147,Employee 147,Business Consulting,Senior,1339822,11,8.497316063,Notice Period,9/26/2022
+148,Employee 148,Business Consulting,Director,853012,3,6.247082765,Active,4/1/2022
+149,Employee 149,IT Solutions,Lead,1252066,8,8.403841278,Notice Period,2/9/2023
+150,Employee 150,Business Consulting,Manager,626655,10,8.874565482,On Leave,8/2/2025
+151,Employee 151,HR & Staffing,Manager,1449529,9,9.313302207,On Leave,11/24/2027
+152,Employee 152,IT Solutions,Senior,359921,4,6.420909758,Active,3/16/2023
+153,Employee 153,Data & AI Services,Junior,798397,6,9.704563631,Notice Period,1/24/2021
+154,Employee 154,HR & Staffing,Manager,1375305,10,7.550885108,On Leave,9/5/2026
+155,Employee 155,IT Solutions,Manager,761168,3,8.973011221,Active,12/1/2021
+156,Employee 156,HR & Staffing,Manager,1342081,2,9.249290101,Notice Period,11/26/2023
+157,Employee 157,IT Solutions,Director,1071317,14,7.252838952,Notice Period,1/11/2020
+158,Employee 158,HR & Staffing,Manager,1127927,4,7.817951627,Active,11/7/2021
+159,Employee 159,IT Solutions,Junior,786723,7,9.393887567,Notice Period,3/2/2021
+160,Employee 160,Data & AI Services,Junior,879076,12,8.821169518,On Leave,8/17/2026
+161,Employee 161,Business Consulting,Lead,1029105,15,8.047430769,Notice Period,5/14/2027
+162,Employee 162,Business Consulting,Lead,1214574,6,9.918665222,Active,4/22/2024
+163,Employee 163,Business Consulting,Director,1219772,2,6.858998486,Notice Period,3/24/2022
+164,Employee 164,Business Consulting,Manager,1171746,5,8.795950405,On Leave,11/15/2022
+165,Employee 165,Business Consulting,Lead,645617,9,8.248466122,On Leave,1/28/2022
+166,Employee 166,Data & AI Services,Director,534795,12,8.899195705,On Leave,1/28/2022
+167,Employee 167,HR & Staffing,Senior,436145,15,7.492172755,Notice Period,3/16/2028
+168,Employee 168,HR & Staffing,Senior,754825,13,9.912587445,On Leave,3/21/2020
+169,Employee 169,IT Solutions,Lead,1050603,10,6.330931437,Notice Period,7/5/2026
+170,Employee 170,Business Consulting,Director,969828,9,8.938441408,Notice Period,3/9/2026
+171,Employee 171,Data & AI Services,Director,749837,2,6.356887825,Active,8/21/2027
+172,Employee 172,IT Solutions,Junior,1128189,6,8.151684433,Active,9/8/2023
+173,Employee 173,Data & AI Services,Manager,1368979,9,9.926890936,Notice Period,10/28/2025
+174,Employee 174,Business Consulting,Senior,997428,9,9.969692329,Active,11/1/2028
+175,Employee 175,HR & Staffing,Lead,1080624,10,7.740761507,Active,11/26/2020
+176,Employee 176,Business Consulting,Director,1055159,9,9.740235742,Notice Period,5/9/2028
+177,Employee 177,HR & Staffing,Senior,599672,12,8.422852038,On Leave,4/21/2028
+178,Employee 178,Data & AI Services,Senior,987786,15,9.908458549,On Leave,10/21/2021
+179,Employee 179,Data & AI Services,Manager,497138,10,7.38071399,Notice Period,12/28/2027
+180,Employee 180,IT Solutions,Senior,769669,15,6.515314354,Active,6/15/2020
+181,Employee 181,Data & AI Services,Manager,861265,3,9.59974608,On Leave,9/20/2024
+182,Employee 182,HR & Staffing,Lead,470913,15,7.353967798,Notice Period,3/18/2025
+183,Employee 183,IT Solutions,Junior,582915,2,9.406213482,Active,1/8/2023
+184,Employee 184,Business Consulting,Junior,760939,2,8.394583808,On Leave,6/14/2020
+185,Employee 185,IT Solutions,Junior,1385119,3,6.550360128,On Leave,12/14/2028
+186,Employee 186,Business Consulting,Director,1165317,13,7.672326119,On Leave,4/6/2022
+187,Employee 187,Data & AI Services,Manager,592879,15,7.917200903,On Leave,7/8/2024
+188,Employee 188,Business Consulting,Senior,410919,5,6.078271237,Notice Period,6/12/2025
+189,Employee 189,Data & AI Services,Junior,696205,11,6.702758763,Active,5/8/2027
+190,Employee 190,IT Solutions,Director,624889,6,9.348894819,Notice Period,2/14/2025
+191,Employee 191,HR & Staffing,Manager,951418,15,6.437445684,Active,9/23/2022
+192,Employee 192,Business Consulting,Director,485468,6,8.260483011,Notice Period,1/7/2026
+193,Employee 193,HR & Staffing,Lead,1290738,4,8.588772829,Active,10/17/2026
+194,Employee 194,IT Solutions,Director,1416851,11,9.814063849,Notice Period,9/1/2022
+195,Employee 195,Data & AI Services,Manager,599740,10,7.053604876,Active,2/19/2020
+196,Employee 196,Business Consulting,Manager,340159,14,9.12234998,On Leave,3/1/2027
+197,Employee 197,HR & Staffing,Director,727979,5,7.562313478,Notice Period,1/7/2028
+198,Employee 198,IT Solutions,Junior,1129706,15,6.464741347,Active,1/24/2028
+199,Employee 199,IT Solutions,Lead,365161,12,9.153227804,Active,12/6/2020
+200,Employee 200,IT Solutions,Senior,909824,15,6.489509441,Active,12/31/2021
+201,Employee 201,Business Consulting,Director,1234350,3,7.482711444,On Leave,3/29/2023
+202,Employee 202,Business Consulting,Senior,690349,6,7.668543143,Active,2/1/2026
+203,Employee 203,Data & AI Services,Lead,853643,2,8.640210715,Notice Period,6/16/2020
+204,Employee 204,Data & AI Services,Senior,1035070,14,8.649572178,On Leave,12/3/2023
+205,Employee 205,Business Consulting,Junior,1056538,15,9.272002225,Notice Period,5/11/2020
+206,Employee 206,Business Consulting,Lead,370004,8,9.254009909,On Leave,3/25/2024
+207,Employee 207,HR & Staffing,Senior,477112,13,6.281951884,On Leave,10/31/2027
+208,Employee 208,Data & AI Services,Director,949553,8,8.273001599,Notice Period,1/11/2024
+209,Employee 209,IT Solutions,Director,1462309,3,9.041878782,Notice Period,8/23/2020
+210,Employee 210,Data & AI Services,Manager,935145,14,9.947475682,On Leave,1/20/2021
+211,Employee 211,Business Consulting,Lead,1219092,4,8.731585066,Notice Period,8/3/2021
+212,Employee 212,Data & AI Services,Director,1170605,5,7.751278856,On Leave,2/23/2022
+213,Employee 213,Business Consulting,Senior,1142521,6,9.948678928,Notice Period,5/11/2028
+214,Employee 214,HR & Staffing,Manager,1009808,8,9.200245051,Active,5/7/2024
+215,Employee 215,Data & AI Services,Junior,831033,4,8.852255824,On Leave,12/4/2025
+216,Employee 216,Business Consulting,Junior,1171941,14,9.718285518,Active,11/15/2023
+217,Employee 217,Business Consulting,Director,1291832,12,9.670336242,On Leave,12/26/2025
+218,Employee 218,Business Consulting,Lead,1157858,5,8.111119541,Active,4/2/2026
+219,Employee 219,IT Solutions,Manager,1025187,13,7.741994857,Notice Period,5/8/2027
+220,Employee 220,Data & AI Services,Director,381344,5,7.933578167,Active,6/6/2025
+221,Employee 221,Data & AI Services,Lead,795697,5,8.37341122,Active,3/16/2021
+222,Employee 222,HR & Staffing,Lead,419119,9,6.224448745,Active,7/12/2026
+223,Employee 223,Business Consulting,Manager,1101126,10,6.213162751,On Leave,4/9/2026
+224,Employee 224,HR & Staffing,Junior,533332,15,8.929931002,Active,4/2/2022
+225,Employee 225,IT Solutions,Senior,1477190,13,7.784266896,Active,12/12/2027
+226,Employee 226,Business Consulting,Director,1089552,4,6.904723927,On Leave,9/9/2027
+227,Employee 227,Business Consulting,Director,1325990,6,7.952278371,On Leave,7/20/2022
+228,Employee 228,Data & AI Services,Manager,1450630,3,9.421572853,Active,2/18/2027
+229,Employee 229,Data & AI Services,Lead,1217187,5,7.964857531,Notice Period,2/13/2028
+230,Employee 230,HR & Staffing,Junior,918378,13,6.990026067,On Leave,10/31/2025
+231,Employee 231,HR & Staffing,Lead,1386356,10,9.609505737,On Leave,12/29/2027
+232,Employee 232,IT Solutions,Lead,626186,9,6.683288588,Active,9/25/2028
+233,Employee 233,HR & Staffing,Lead,450216,8,8.167658325,On Leave,8/11/2024
+234,Employee 234,Data & AI Services,Junior,738460,2,6.502832468,Notice Period,6/20/2020
+235,Employee 235,IT Solutions,Junior,1014036,10,8.913767616,On Leave,11/17/2025
+236,Employee 236,Business Consulting,Manager,1017814,9,8.908197787,Active,6/17/2022
+237,Employee 237,HR & Staffing,Director,1140417,2,7.021639612,Notice Period,1/14/2026
+238,Employee 238,Business Consulting,Junior,462349,15,8.786550713,On Leave,1/10/2025
+239,Employee 239,IT Solutions,Junior,1485288,12,6.0542395,Notice Period,2/4/2022
+240,Employee 240,Data & AI Services,Junior,703494,4,7.735761529,On Leave,6/25/2028
+241,Employee 241,Data & AI Services,Senior,374344,15,9.819935868,Active,4/26/2020
+242,Employee 242,Business Consulting,Manager,408324,3,8.212073057,On Leave,11/27/2025
+243,Employee 243,Data & AI Services,Manager,425757,7,8.700451566,On Leave,11/8/2023
+244,Employee 244,Business Consulting,Director,667207,9,8.729093202,On Leave,7/2/2028
+245,Employee 245,IT Solutions,Director,750550,10,6.530527115,Active,4/30/2021
+246,Employee 246,IT Solutions,Junior,1107401,4,8.490856378,Active,2/26/2028
+247,Employee 247,Business Consulting,Lead,844960,14,8.366602731,On Leave,11/10/2022
+248,Employee 248,HR & Staffing,Junior,952879,11,6.915051788,On Leave,5/28/2023
+249,Employee 249,Data & AI Services,Lead,1443676,1,6.816163945,Active,6/6/2026
+250,Employee 250,HR & Staffing,Junior,521128,14,8.696911976,Notice Period,7/11/2028
+251,Employee 251,IT Solutions,Lead,1429945,13,6.450056343,Active,5/20/2023
+252,Employee 252,IT Solutions,Director,412024,14,9.636075177,Active,11/1/2028
+253,Employee 253,Data & AI Services,Junior,1002185,8,6.029791207,Active,1/1/2024
+254,Employee 254,Data & AI Services,Senior,338437,4,7.758423901,Active,11/28/2028
+255,Employee 255,HR & Staffing,Lead,1478754,12,6.852088159,On Leave,3/31/2024
+256,Employee 256,Data & AI Services,Senior,1154797,15,9.546339799,Active,10/18/2028
+257,Employee 257,Business Consulting,Manager,1489096,3,7.800326527,Active,1/31/2025
+258,Employee 258,IT Solutions,Manager,326629,13,9.602105238,Notice Period,5/1/2028
+259,Employee 259,IT Solutions,Manager,1075882,2,8.778323867,Active,3/2/2024
+260,Employee 260,IT Solutions,Lead,1463315,13,7.767236495,Notice Period,3/17/2026
+261,Employee 261,Business Consulting,Senior,1027771,12,9.816106712,Active,10/9/2020
+262,Employee 262,HR & Staffing,Senior,753933,4,9.348826403,On Leave,5/30/2027
+263,Employee 263,IT Solutions,Senior,493209,11,6.687278405,On Leave,12/22/2022
+264,Employee 264,Data & AI Services,Junior,608626,9,9.286424817,Active,3/28/2024
+265,Employee 265,IT Solutions,Lead,1007892,12,9.91584562,On Leave,10/29/2024
+266,Employee 266,Business Consulting,Lead,403151,10,6.288611988,Active,3/17/2025
+267,Employee 267,IT Solutions,Senior,447622,14,6.826292986,Notice Period,10/12/2025
+268,Employee 268,HR & Staffing,Director,455814,10,8.4249935,On Leave,7/29/2027
+269,Employee 269,Data & AI Services,Senior,1201884,5,9.540508666,Notice Period,8/21/2024
+270,Employee 270,Data & AI Services,Junior,1432977,10,8.365151369,On Leave,9/30/2025
+271,Employee 271,Business Consulting,Junior,1161310,8,9.537508492,Active,2/7/2020
+272,Employee 272,Business Consulting,Lead,1351134,12,8.961486801,On Leave,6/25/2021
+273,Employee 273,Data & AI Services,Director,1023373,15,6.379985123,Notice Period,4/15/2020
+274,Employee 274,HR & Staffing,Director,841902,8,9.202316174,On Leave,3/28/2024
+275,Employee 275,IT Solutions,Manager,1481813,6,7.866284024,Notice Period,6/3/2021
+276,Employee 276,HR & Staffing,Senior,324572,13,7.138060504,On Leave,8/20/2026
+277,Employee 277,IT Solutions,Manager,1407775,15,7.118371447,Active,7/22/2022
+278,Employee 278,Business Consulting,Director,985565,10,6.313547823,On Leave,5/28/2022
+279,Employee 279,Data & AI Services,Junior,1202814,15,6.200882771,Active,2/24/2024
+280,Employee 280,HR & Staffing,Director,1340110,13,8.06878919,Notice Period,2/15/2020
+281,Employee 281,IT Solutions,Lead,764001,6,7.582533531,On Leave,11/28/2025
+282,Employee 282,IT Solutions,Senior,627692,12,9.977972582,Notice Period,1/3/2020
+283,Employee 283,HR & Staffing,Senior,1498463,6,8.727547349,On Leave,3/16/2026
+284,Employee 284,Business Consulting,Director,1176017,15,9.673586787,Active,9/4/2020
+285,Employee 285,Business Consulting,Lead,1149791,15,9.693655593,Active,5/26/2020
+286,Employee 286,IT Solutions,Senior,903738,5,8.177796253,Notice Period,1/25/2025
+287,Employee 287,Data & AI Services,Junior,1235104,14,6.545074927,Active,3/25/2022
+288,Employee 288,Data & AI Services,Manager,1478884,15,9.94723267,On Leave,2/9/2021
+289,Employee 289,HR & Staffing,Senior,732439,2,6.44161119,Active,3/24/2021
+290,Employee 290,IT Solutions,Manager,1419987,10,6.349881751,On Leave,3/10/2027
+291,Employee 291,HR & Staffing,Senior,1211718,10,6.50975415,Notice Period,9/6/2024
+292,Employee 292,Data & AI Services,Manager,1454093,8,6.340026124,Active,10/18/2021
+293,Employee 293,Business Consulting,Director,908440,2,9.081623849,Notice Period,2/26/2026
+294,Employee 294,Data & AI Services,Manager,1360777,12,6.641248307,On Leave,4/3/2022
+295,Employee 295,IT Solutions,Manager,1266256,15,7.721265696,Notice Period,12/29/2026
+296,Employee 296,Data & AI Services,Senior,773685,12,6.957592463,Active,1/10/2024
+297,Employee 297,HR & Staffing,Junior,666264,1,6.057049415,Active,6/7/2026
+298,Employee 298,HR & Staffing,Junior,705050,4,7.895192466,Notice Period,1/3/2024
+299,Employee 299,IT Solutions,Director,621633,5,9.993462224,On Leave,1/21/2027
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
