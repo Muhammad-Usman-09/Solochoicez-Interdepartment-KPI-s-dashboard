@@ -72,7 +72,7 @@ solochoicez-interdepartment-kpi-dashboard/
 1. **Clone the repository** (or download ZIP)
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
 
 ---
 Run the app:
