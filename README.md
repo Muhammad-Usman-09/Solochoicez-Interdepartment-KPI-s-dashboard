@@ -31,17 +31,24 @@ Departments covered:
 ----
 
 ## 📂 Project Structure
+
 solochoicez-interdepartment-kpi-dashboard/
+
 │-- app.py # Main dashboard application
+
 │-- requirements.txt # Python dependencies
+
 │-- README.md # Project documentation
+
 │-- config/
 │ └── settings.py # Application settings & configuration
+
 │-- data/
 │ ├── it_dataset.csv
 │ ├── hr_dataset.csv
 │ ├── consulting_dataset.csv
 │ └── data_dataset.csv
+
 │-- utils/
 │ ├── data_loader.py # Data loading logic
 │ └── charts.py # Chart creation functions
