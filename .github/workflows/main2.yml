@@ -1,0 +1,33 @@
+name: Android APK Build
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up JDK 17
+      uses: actions/setup-java@v5
+      with:
+        java-version: '17'
+        distribution: 'temurin'
+        # Cache ko band kiya hai taake error na aaye
+
+    - name: Grant Execute Permission for Gradle
+      run: chmod +x gradlew
+      continue-on-error: true # Agar file na ho to bhi agla step chale
+
+    - name: Build Debug APK
+      run: |
+        if [ -f gradlew ]; then
+          ./gradlew assembleDebug
+        else
+          echo "Error: Yeh Android project nahi hai. Isme gradlew file missing hai!"
+          exit 1
+        fi
